@@ -8,6 +8,9 @@ For example:
 | -------- | ------------ | -------- |
 | fbclid   | facebook.com | referral |
 | twclid   | twitter.com  | referral |
+| li_fat_id   | linkedin.com   | referral |
 | ttclid   | tiktok.com   | referral |
+| ScClid   | snapchat.com   | referral |
+| igshid   | instagram.com   | referral |
 
 If you have any questions or need support for GA or GTM setup, feel free to reach out to [MeasureMinds Group](https://measuremindsgroup.com/).
